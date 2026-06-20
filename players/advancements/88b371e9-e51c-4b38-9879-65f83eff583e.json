@@ -1550,33 +1550,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2026-06-15 01:15:33 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2026-06-15 01:15:33 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2026-06-15 01:14:08 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_chestplate": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_leather": "2026-06-15 01:15:33 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_red_dye": "2026-06-15 01:14:42 -0700"
+      "has_brown_mushroom": "2026-06-15 01:14:08 -0700"
     },
     "done": true
   },
@@ -1586,27 +1568,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
-      "has_leather": "2026-06-15 01:15:33 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/saddle": {
-    "criteria": {
-      "has_leather": "2026-06-15 01:15:33 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2026-06-15 01:14:56 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2026-06-15 01:15:33 -0700"
+      "has_red_dye": "2026-06-15 01:14:42 -0700"
     },
     "done": true
   },
@@ -1631,18 +1595,6 @@
   "minecraft:recipes/decorations/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2026-06-15 01:14:42 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2026-06-15 01:14:56 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2026-06-15 01:15:33 -0700"
     },
     "done": true
   },
@@ -1682,21 +1634,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_boots": {
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2026-06-15 01:14:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2026-06-15 01:14:56 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2026-06-15 01:14:56 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2026-06-15 01:15:33 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
-      "has_brown_mushroom": "2026-06-15 01:14:08 -0700"
+      "has_leather": "2026-06-15 01:15:33 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+  "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
-      "has_rose_red": "2026-06-15 01:14:42 -0700"
+      "has_leather": "2026-06-15 01:15:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2026-06-15 01:15:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/saddle": {
+    "criteria": {
+      "has_leather": "2026-06-15 01:15:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2026-06-15 01:15:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2026-06-15 01:15:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2026-06-15 01:15:33 -0700"
     },
     "done": true
   },
@@ -1712,5 +1712,5 @@
     },
     "done": true
   },
-  "DataVersion": 4790
+  "DataVersion": 4903
 }
