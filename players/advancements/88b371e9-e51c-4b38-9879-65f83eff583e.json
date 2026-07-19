@@ -1834,21 +1834,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2026-07-19 09:27:22 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2026-07-19 09:26:58 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
+  "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
-      "has_planks": "2026-07-19 09:34:02 -0700"
+      "has_chicken": "2026-07-19 09:26:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2026-07-19 09:26:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2026-07-19 09:27:22 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2026-07-19 09:27:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2026-07-19 09:27:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-07-19 09:32:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-07-19 09:32:45 -0700"
     },
     "done": true
   },
@@ -1858,15 +1888,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/food/cooked_chicken": {
+  "minecraft:recipes/redstone/birch_button": {
     "criteria": {
-      "has_chicken": "2026-07-19 09:26:58 -0700"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2026-07-19 09:32:45 -0700"
+      "has_planks": "2026-07-19 09:34:02 -0700"
     },
     "done": true
   },
@@ -1888,12 +1912,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2026-07-19 09:27:40 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2026-07-19 09:34:02 -0700"
@@ -1909,24 +1927,6 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2026-07-19 09:34:02 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2026-07-19 09:27:40 -0700"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2026-07-19 09:32:45 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2026-07-19 09:26:58 -0700"
     },
     "done": true
   },
